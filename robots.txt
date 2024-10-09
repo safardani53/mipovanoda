@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mipovanoda.pages.dev/sitemap.xml
